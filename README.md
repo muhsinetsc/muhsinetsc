@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Muhsine, QA tester from İstanbul/Türkiye</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poetsen+One&pause=1000&color=1BF7ED&random=false&width=435&lines=Hello...+%F0%9F%A4%97)](https://git.io/typing-svg)
+
+<h3 align="left">Hi 👋! My name is Muhsine, QA tester from İstanbul/Türkiye</h3>
 
 ###
 
