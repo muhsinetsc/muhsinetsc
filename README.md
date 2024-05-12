@@ -6,6 +6,12 @@
 
 ###
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poetsen+One&pause=1000&color=1BF7ED&random=false&width=435&lines=About+Me" alt="Typing SVG" /></a>
+<p align="left">👀 I’m interested in Software Testing<br>🌱 I’m currently learning Python, SQL, Selenium, Postman ...</p>
+
+###
+
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
